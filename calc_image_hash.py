@@ -107,12 +107,12 @@ if __name__ == '__main__':
     calc_dir_hash(userpath)
     
     print('\n\nahash:')
-    #find_similar_images(userpath, calc_ahash)
+    find_similar_images(userpath, calc_ahash)
 
     print('\n\nphash:')
-    #find_similar_images(userpath, calc_phash)
+    find_similar_images(userpath, calc_phash)
 
     print('\n\ndhash:')
-    #find_similar_images(userpath, calc_dhash)
+    find_similar_images(userpath, calc_dhash)
 
 
